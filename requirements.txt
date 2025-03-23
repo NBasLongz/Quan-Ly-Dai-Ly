@@ -1,0 +1,6 @@
+# requirements.txt
+django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.0
+pyqt5==5.15.9
+requests==2.31.0
